@@ -171,4 +171,22 @@ footer{
     background: #FFF8F3;
     padding: 130px 230px;
     margin-top: 113px;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+.social-links{
+    margin-right: 25px;
+}
+.contract input[type="text"], .contract input[type="email"],
+textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background:  #FFF;
+    border: 0px;
+    width: 100%;
 }
